@@ -13,3 +13,5 @@ Make a /keys folder in the same path as the executable, the --auto option will f
 # Decrypting PS3 ISOs
 https://consolemods.org/wiki/PS3:Decrypting_PS3_ISOs
 
+# About games with 2 disks
+I came across [[Biohazard 5]] with have a disk call alternate version/gold edition, thought it would be a standalone disk. I was far off, turns out you need both disk/iso installed to play it

@@ -3,6 +3,8 @@
 
 # Transferring Files with FTP
 https://consolemods.org/wiki/PS3:Transferring_Files_with_FTP
+- **Note**: using direct connection to the router gives a 11mb/s instead of 1.2~1.5 mb/s from [[webMAN]] and <2.5mb/s from [[multiMAN]]
+- **Recommendation**:  for any >1 Gb files, try direct connection when possible
 
 # Brewlogy, where the homebrew stuff are found
 https://store.brewology.com/homebrew.php?category=Apps&orderby=
