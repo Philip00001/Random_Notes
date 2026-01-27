@@ -1,3 +1,6 @@
+#Ignore all obsidian settings
+.obsidian/
+
 # Obsidian cache files
 .obsidian/cache/
 
