@@ -26,18 +26,18 @@ BUSY->D2, RST->D4, DC->D3, CS->D8(SS), CLK->D5(SCK), DIN->D7(MOSI), GND->GND, 3.
 https://github.com/GitJer/XiaomiMiaoMiaoCe
 The follwing connections (defined in XiaomiMiaoMiaoCe.h) to the ESP8266 are made:
 
-|Breakout|ESP8266|Function|
-|---|:--|:--|
-|1|D2|BUSY_N|
-|2|D7|SPI ENABLE|
-|3|D1|SPI CLK|
-|4|D6|SPI MOSI|
-|5|-|not connected|
-|6|D5|RST_N|
-|7|3V3|VCC 3V3|
-|8|GND|GND|
-|9|-|not connected (VDH)|
-|10|-|not connected (VDL)|
+| Breakout | ESP8266 | Function            |
+| -------- | :------ | :------------------ |
+| 1        | D2      | BUSY_N              |
+| 2        | D7      | SPI ENABLE          |
+| 3        | D1      | SPI CLK             |
+| 4        | D6      | SPI MOSI            |
+| 5        | -       | not connected       |
+| 6        | D5      | RST_N               |
+| 7        | 3V3     | VCC 3V3             |
+| 8        | GND     | GND                 |
+| 9        | -       | not connected (VDH) |
+| 10       | -       | not connected (VDL) |
 
 ---
 
