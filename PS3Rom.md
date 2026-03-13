@@ -1,3 +1,8 @@
+>[!info] Sad News
+>Myrient will shut down on 31 March 2026. Download any content you find important.
+>
+>More information can be found on our [Discord server](https://discord.gg/4kVP9AuQ24) and [Telegram channel](https://t.me/s/myrient/107).
+
 https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203%20-%20Disc%20Keys%20TXT/
 Need both .key, .dkey (.key for playing iso and decrypt on the fly, .dkey for decryption on the computer)
 Note: ps3hen somehow failed to use the .key file, try [[#To use ps3dec]].

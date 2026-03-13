@@ -1,3 +1,4 @@
+webMAN we refer to is usually webMAN MOD
 # [Fan control](https://github.com/aldostools/webMAN-MOD/wiki/~-Fan-Settings)
 
 > [!info] TL;DR
