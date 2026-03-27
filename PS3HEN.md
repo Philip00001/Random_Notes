@@ -34,22 +34,23 @@ You should avoid games with issues unless you like to deal with it.
 ## Process
 1. Install the stuffs listed above
 2. Transfer your PS2 game to PS2ISO folder
-3. Check if the game are .BIN.ENC, IF YES, GOTO step 14
+3. Check if the game are .BIN.ENC, IF YES, GOTO step 15
 4. IF NOT, use mmCM and boot into multiMAN mode
 5. Goto Retro under XMB layout
 6. Press X button on the game to turn them into PS2 Classic
 7. Goto mmOS
 8. Move into PS2ISO
 9. You should be able to see new folder, named after the game you chose
-10. Move into the folder, Rename the only file into to "Your_Game_Name.ISO.BIN.ENC" (Or anything you like)
-11. Cut and move the file to the parent folder (PS2ISO)
-12. Remove the PS2ISO left behind (Optional)
-13. Quit mmCM
-14. Refresh XMB and games with webMAN
-15. Now load the game under PS2ISO
-16. NOTHING will pop up, it is normal
-17. Open PS2 Classic Placeholder, if should be in the bottom if you have never use it before
-18. Play the game, note that the virtual memory card is in PS2 Classic Placeholder, not in the system one
+10. If You used a folder of .bin &.cue file, you can skip step 11
+11. Move into the folder, Rename the only file into to "Your_Game_Name.ISO.BIN.ENC" (Or anything you like)
+12. Cut and move the file to the parent folder (PS2ISO)
+13. Remove the PS2ISO left behind (Optional)
+14. Quit mmCM
+15. Refresh XMB and games with webMAN
+16. Now load the game under PS2ISO
+17. NOTHING will pop up, it is normal
+18. Open PS2 Classic Placeholder, if should be in the bottom if you have never use it before
+19. Play the game, note that the virtual memory card is in PS2 Classic Placeholder, not in the system one
 
 ### Misc
 https://www.psx-place.com/threads/so-i-installed-ps3hen-without-activating-my-psn-account-am-i-screwed.42081/
